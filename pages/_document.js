@@ -14,6 +14,7 @@ class MyDocument extends Document {
     return (
             <Html lang={BLOG.LANG}>
                 <Head>
+                    <meta name="google-site-verification" content="2sbPfUD5--VYunuiWLSJ8Mfcx7bTfqbXgDRTcW5QH5U" />
                     <link rel='icon' href='/favicon.ico' />
                     <CommonScript />
                 </Head>
